@@ -1,0 +1,21 @@
+/* (C)2003 Шатило Саша */
+BODY
+{
+background-image:url(/grey.gif);
+background-color:#666666;
+color:#ffff00;
+  scrollbar-face-color: #E8E8FF;
+  scrollbar-highlight-color: #CCCCCC;
+  scrollbar-shadow-color: #CCCCCC;
+  scrollbar-3dlight-color: #CCCCCC;
+  scrollbar-arrow-color: #888888;
+  scrollbar-track-color: #E8E8FF;
+  scrollbar-darkshadow-color: #CCCCCC;
+ font-size: 15px;
+}
+font{ font-size: 15px;}
+table{ font-size: 15px;}
+textarea,input,submit{ font-family: Verdana, Tahoma;font-size: 11px; background: #FFFFFF; border: 1pt solid #CCCCCC; color: #222222 }
+a:link{color:#00ff00}
+a:visited{color:#00ffff}
+a:hover{color:#f0f0f0}
